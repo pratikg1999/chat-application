@@ -1,0 +1,13 @@
+.navbar-color {
+  background: #350d36;
+  color: white;
+}
+
+.logout-icon {
+  height: 3vh;
+}
+
+.nav-avatar {
+  height: 4vh;
+  width: 4vh;
+}

@@ -1,0 +1,5 @@
+.chatbox {
+  height: 72vh;
+  max-height: 72vh;
+  overflow: scroll;
+}

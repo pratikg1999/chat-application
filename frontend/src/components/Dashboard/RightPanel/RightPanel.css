@@ -1,0 +1,21 @@
+.rightPanel {
+  height: 95vh;
+}
+
+.chat-avatar {
+  height: 4vh;
+  width: 4vh;
+}
+
+.offline {
+  color: #d80000;
+}
+
+.online {
+  color: #05c880;
+}
+
+.username {
+  font-weight: bold;
+  margin: auto 5px;
+}

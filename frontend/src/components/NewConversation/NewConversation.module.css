@@ -1,0 +1,11 @@
+.vh50 {
+  height: 50vh;
+}
+
+.user {
+  cursor: pointer;
+}
+
+.user:hover {
+  background-color: grey;
+}

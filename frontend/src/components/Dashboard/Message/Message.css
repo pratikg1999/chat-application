@@ -1,0 +1,47 @@
+.status {
+  font-size: 8px;
+}
+
+.message-avatar {
+  height: 4vh;
+  width: 4vh;
+}
+
+.attachment {
+  height: 250px;
+  width: 250px;
+}
+
+.message {
+  padding: 8px 20px;
+}
+
+.message:hover {
+  background: #d3d3d3;
+}
+
+.username {
+  font-weight: bold;
+  margin: auto 5px;
+}
+
+.readIcon {
+  margin: auto;
+}
+
+.time {
+  font-size: small;
+  font-style: italic;
+  margin: auto 5px;
+}
+
+.floatLayout {
+  position: fixed;
+  width: 90%;
+  height: 90%;
+  left: 20vh;
+  top: 20vh;
+  background: white;
+  z-index: 10;
+  box-shadow: 5px 5px 5px 5px #888888;
+}

@@ -1,0 +1,26 @@
+.selected {
+  background-color: #1164a3;
+}
+
+.conversation {
+  cursor: pointer;
+}
+
+.nonSelected:hover {
+  background: #611f69;
+}
+
+.newChatButton {
+  background-color: #611f69;
+  color: white;
+}
+
+.newChatButton:hover {
+  background-color: #350d36;
+  color: white;
+}
+
+.leftPanel {
+  height: 88vh;
+  max-height: 88vh;
+}
