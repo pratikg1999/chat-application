@@ -34,13 +34,18 @@ const ConversationsList = ({
       </div>
       <div className={`pr-1`}>
         {conversation.receiver.isTyping ? (
-          <img
-            className="rounded"
-            src={typingIcon}
-            alt="avatar"
-            width="25"
-            height="25"
-          />
+          // <img
+          //   className="rounded"
+          //   src={typingIcon}
+          //   alt="avatar"
+          //   width="25"
+          //   height="25"
+          // />
+          <div className="ticontainer px-1">
+            <div className="tidot"></div>
+            <div className="tidot"></div>
+            <div className="tidot"></div>
+          </div>
         ) : (
           <img
             className="rounded"
